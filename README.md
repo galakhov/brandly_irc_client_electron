@@ -10,11 +10,11 @@
 - 👔 **Clean Interface**
 - 😈 **Dark Mode**
 
-## download
+## Download
 
-[download the macOS `.app` here](https://github.com/galakhov/brandly_irc_client_electron/releases)!
+[Download my macOS `.app` version in releases](https://github.com/galakhov/brandly_irc_client_electron/releases).
 
-for other platforms, you'll have to build your own.
+For other platforms, you'll have to build your own.
 
 ## dev
 

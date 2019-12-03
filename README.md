@@ -12,7 +12,7 @@
 
 ## download
 
-[download the macOS `.app` here](https://github.com/brandly/irc/releases)!
+[download the macOS `.app` here](https://github.com/galakhov/brandly_irc_client_electron/releases)!
 
 for other platforms, you'll have to build your own.
 

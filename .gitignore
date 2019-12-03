@@ -2,7 +2,7 @@ node_modules
 *.log
 .DS_Store
 
-dist/
+dist/IRC-darwin-x64/*
 build/
 src/static/*.css
 
